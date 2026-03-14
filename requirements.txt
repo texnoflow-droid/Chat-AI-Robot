@@ -1,0 +1,6 @@
+torch>=2.0.0
+sounddevice>=0.4.6
+SpeechRecognition>=3.10.0
+groq>=0.4.1
+PyQt5>=5.15.9
+numpy>=1.21.0
